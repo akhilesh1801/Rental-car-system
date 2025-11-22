@@ -115,4 +115,4 @@ while True:
         print("Thank you for using the Car Rental System!")
         break
     else:
-        print("Invalid choice! Please try again.")
+        print("Error")

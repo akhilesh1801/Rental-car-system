@@ -15,5 +15,12 @@ When a user rents a car, its status updates from Available → Rented.
 When returned, status updates back to Available.
 Rental cost is calculated using:
 Total Cost = Cost per Day × Number of Days
+# Concepts applied
+Lists & Dictionaries
+Loops
+User input handling
+Conditional statements
+Functions
+Basic data management
 
 

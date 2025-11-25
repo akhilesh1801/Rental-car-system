@@ -9,6 +9,15 @@ Calculate total rental cost based on number of days
 Clean and simple interface
 # Used tech
 Only python. no external library
+# Project structure
+car_rental_system.py - main program
+README.md - project documentation
+screenshot - output
+project report
+# How to run
+install python
+Download this repository
+navigate the folder and run car_rental_system.py
 # How It Works
 The system stores car data in a Python dictionary.
 When a user rents a car, its status updates from Available → Rented.
@@ -22,5 +31,6 @@ User input handling
 Conditional statements
 Functions
 Basic data management
-
-
+# Made by
+Akhilesh Sreenivasan
+25BCE10644

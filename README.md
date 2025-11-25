@@ -14,6 +14,7 @@ car_rental_system.py - main program
 README.md - project documentation
 screenshot - output
 project report
+statement.md - project statement
 # How to run
 install python
 Download this repository
